@@ -84,7 +84,10 @@ I'm passionate about building software, solving challenging problems, and contin
 🔹 Backend Development
 🔹 Git & GitHub
 
+```
+
 ## 🧩 Problem Solving
+```text
 
 I enjoy solving problems and strengthening my understanding of:
 
@@ -98,6 +101,7 @@ I enjoy solving problems and strengthening my understanding of:
 - 🔹 Greedy Algorithms
 - 🔹 Time & Space Complexity
 
+```
 ---
 
 ## 🔥 Contribution Streak
